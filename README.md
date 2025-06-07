@@ -18,4 +18,4 @@ Currently training in Python, data analysis, and machine learning at BeCode. Cur
 • Mini-projects & challenges  
 • Early AI & health tech explorations  
 
-This repo tracks my learning journey from working in lab to building models 💡
+This repo tracks my learning journey from working in lab to building models:)
