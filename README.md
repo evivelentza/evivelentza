@@ -1,12 +1,21 @@
+
 ## Hi there, I’m Evi ^^
 
 **AI / Data Science Trainee @ BeCode | Background in Pharmacogenomics & Health Data**
 
-Currently training in Python, data analysis, and machine learning at BeCode.✨
+Currently training in Python, data analysis, and machine learning at BeCode. Curious about everything at the intersection of data, code, and care.✨
 
-**On this GitHub:**  
-- Python fundamentals & data manipulation (`pandas`, `matplotlib`)  
-- Small projects, exercises, and group challenges  
-- Early explorations in AI & health tech applications
+🧪 Background in pharmacogenomics & clinical data
 
-This repo tracks my learning journey from science to code:) 
+💻 Now building with Python, pandas, scikit-learn, Streamlit, and more
+
+📊 Exploring machine learning, visualization, GenAI & real-world health projects
+
+
+**On this GitHub:** 
+
+• Python fundamentals & data manipulation  
+• Mini-projects & challenges  
+• Early AI & health tech explorations  
+
+This repo tracks my learning journey from working in lab to building models 💡
